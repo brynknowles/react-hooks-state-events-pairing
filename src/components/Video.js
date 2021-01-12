@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-function Video({ key, title, url, views, created, upvotes, downvotes }) {
+function Video({ title, url, views, created, upvotes, downvotes }) {
 
     // console.log("Props in Video:", props)
     
